@@ -29,7 +29,7 @@ def save(result,file_name):
     
 
 def get_arg ():
-    parser = argparse.ArgumentParser(description='Description of your program')
+    parser = argparse.ArgumentParser(description='Simple domain finder ')
     parser.add_argument('-i','--input', help='Enter domain or E-mail or etc for reverse whois', required=True)
     parser.add_argument('-f','--file', help='File name for saving domains', required=True)
     args=vars(parser.parse_args())
