@@ -15,3 +15,7 @@ python3 reverse_whois.py -f [file.txt] -i [input URL or E-mail or etc ]
 
 python3 reverse_whois.py  --file [file.txt] --input [input URL or E-mail or etc ]
 ```
+
+# TODO
+
+Automate getsubdomain with SSL certificate and other website API
