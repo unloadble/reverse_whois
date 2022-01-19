@@ -8,7 +8,7 @@ import argparse
 
 
 
-api_key = 'at_3EIZSMneUxfG2ypEpfT6YnkBNq9F7'
+api_key = 'YOUR API KEY'
 
 
 headers = {
